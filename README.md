@@ -1,2 +1,2 @@
 # Java
-CDG
+Training - CDG
